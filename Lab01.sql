@@ -9,7 +9,7 @@
 /* How many tables have been created? List the names of the created tables. */
 
 /*
-There are a total of 8 tables created, the names are mentioned below:
+There are a total of 8 tables created, the names are mentioned below:.
     1)CUSTOMERS
     2)EMPLOYEES
     3)OFFICES
